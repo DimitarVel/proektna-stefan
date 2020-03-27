@@ -1,0 +1,14 @@
+#Post {
+    margin: 40px 30px;
+}
+
+#Post > div > h1 {
+    color: #333;
+    padding: 10px;
+}
+
+#Post > div > p {
+    font-size: 1.3em;
+    line-height: 1.3em;
+    padding: 20px 10px;
+}

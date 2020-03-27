@@ -1,0 +1,28 @@
+#Home > .postCard {
+    margin: 50px 40px;
+    background: #FFF;
+    padding-bottom: 30px;
+}
+
+#Home > .postCard > h2 {
+    margin-bottom: 25px;
+    color: #FFF;
+    background: #333;
+    padding: 10px;
+}
+
+#Home > .postCard > p {
+    color: #333;
+    padding: 0px 15px;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    margin-bottom: 30px;
+}
+
+#Home > .postCard > a {
+    color: #FFF;
+    text-decoration: none;
+    background: #333;
+    padding: 10px 20px;
+    margin-left: calc(100% - 150px);
+}
